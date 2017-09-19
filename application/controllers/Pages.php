@@ -2,6 +2,7 @@
 class Pages extends CI_Controller {
     
     public function view($page = 'home') {
+        log_message('info', 'Pages.phpが呼ばれました');
         if ( ! file_exists(APPPATH.'views/pages/'.$page.'.php')) {
             //Page not Found
             show_404();
