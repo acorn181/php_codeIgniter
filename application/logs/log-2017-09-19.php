@@ -1533,3 +1533,183 @@ INFO - 2017-09-19 09:03:24 --> File loaded: /home/masa/php_codeIgniter/applicati
 INFO - 2017-09-19 09:03:24 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
 INFO - 2017-09-19 09:03:24 --> Final output sent to browser
 INFO - 2017-09-19 09:03:24 --> Total execution time: 0.0415
+INFO - 2017-09-19 12:53:36 --> Config Class Initialized
+INFO - 2017-09-19 12:53:36 --> Hooks Class Initialized
+INFO - 2017-09-19 12:53:36 --> UTF-8 Support Enabled
+INFO - 2017-09-19 12:53:36 --> Utf8 Class Initialized
+INFO - 2017-09-19 12:53:36 --> URI Class Initialized
+INFO - 2017-09-19 12:53:36 --> Router Class Initialized
+INFO - 2017-09-19 12:53:36 --> Output Class Initialized
+INFO - 2017-09-19 12:53:36 --> Security Class Initialized
+INFO - 2017-09-19 12:53:36 --> Input Class Initialized
+INFO - 2017-09-19 12:53:36 --> Language Class Initialized
+ERROR - 2017-09-19 12:53:36 --> 404 Page Not Found: A2billing/customer
+INFO - 2017-09-19 14:06:34 --> Config Class Initialized
+INFO - 2017-09-19 14:06:34 --> Hooks Class Initialized
+INFO - 2017-09-19 14:06:34 --> UTF-8 Support Enabled
+INFO - 2017-09-19 14:06:34 --> Utf8 Class Initialized
+INFO - 2017-09-19 14:06:34 --> URI Class Initialized
+DEBUG - 2017-09-19 14:06:34 --> No URI present. Default controller set.
+INFO - 2017-09-19 14:06:34 --> Router Class Initialized
+INFO - 2017-09-19 14:06:34 --> Output Class Initialized
+INFO - 2017-09-19 14:06:34 --> Security Class Initialized
+INFO - 2017-09-19 14:06:34 --> Input Class Initialized
+INFO - 2017-09-19 14:06:34 --> Language Class Initialized
+INFO - 2017-09-19 14:06:34 --> Loader Class Initialized
+INFO - 2017-09-19 14:06:34 --> Helper loaded: url_helper
+INFO - 2017-09-19 14:06:34 --> Helper loaded: form_helper
+INFO - 2017-09-19 14:06:34 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 14:06:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 14:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 14:06:34 --> Controller Class Initialized
+INFO - 2017-09-19 14:06:34 --> Pages.phpが呼ばれました
+INFO - 2017-09-19 14:06:34 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/header.php
+INFO - 2017-09-19 14:06:34 --> File loaded: /home/masa/php_codeIgniter/application/views/pages/home.php
+INFO - 2017-09-19 14:06:34 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
+INFO - 2017-09-19 14:06:34 --> Final output sent to browser
+INFO - 2017-09-19 14:06:34 --> Total execution time: 0.0220
+INFO - 2017-09-19 14:28:50 --> Config Class Initialized
+INFO - 2017-09-19 14:28:50 --> Hooks Class Initialized
+INFO - 2017-09-19 14:28:50 --> UTF-8 Support Enabled
+INFO - 2017-09-19 14:28:50 --> Utf8 Class Initialized
+INFO - 2017-09-19 14:28:50 --> URI Class Initialized
+INFO - 2017-09-19 14:28:50 --> Router Class Initialized
+INFO - 2017-09-19 14:28:50 --> Output Class Initialized
+INFO - 2017-09-19 14:28:50 --> Security Class Initialized
+INFO - 2017-09-19 14:28:50 --> Input Class Initialized
+INFO - 2017-09-19 14:28:50 --> Language Class Initialized
+INFO - 2017-09-19 14:28:50 --> Loader Class Initialized
+INFO - 2017-09-19 14:28:50 --> Helper loaded: url_helper
+INFO - 2017-09-19 14:28:50 --> Helper loaded: form_helper
+INFO - 2017-09-19 14:28:50 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 14:28:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 14:28:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 14:28:50 --> Controller Class Initialized
+INFO - 2017-09-19 14:28:50 --> Pages.phpが呼ばれました
+ERROR - 2017-09-19 14:28:50 --> 404 Page Not Found: 
+INFO - 2017-09-19 14:28:50 --> Config Class Initialized
+INFO - 2017-09-19 14:28:50 --> Hooks Class Initialized
+INFO - 2017-09-19 14:28:50 --> UTF-8 Support Enabled
+INFO - 2017-09-19 14:28:50 --> Utf8 Class Initialized
+INFO - 2017-09-19 14:28:50 --> URI Class Initialized
+INFO - 2017-09-19 14:28:50 --> Router Class Initialized
+INFO - 2017-09-19 14:28:50 --> Output Class Initialized
+INFO - 2017-09-19 14:28:50 --> Security Class Initialized
+INFO - 2017-09-19 14:28:50 --> Input Class Initialized
+INFO - 2017-09-19 14:28:50 --> Language Class Initialized
+INFO - 2017-09-19 14:28:50 --> Loader Class Initialized
+INFO - 2017-09-19 14:28:51 --> Helper loaded: url_helper
+INFO - 2017-09-19 14:28:51 --> Helper loaded: form_helper
+INFO - 2017-09-19 14:28:51 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 14:28:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 14:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 14:28:51 --> Controller Class Initialized
+INFO - 2017-09-19 14:28:51 --> Pages.phpが呼ばれました
+ERROR - 2017-09-19 14:28:51 --> 404 Page Not Found: 
+INFO - 2017-09-19 14:36:56 --> Config Class Initialized
+INFO - 2017-09-19 14:36:56 --> Hooks Class Initialized
+INFO - 2017-09-19 14:36:56 --> UTF-8 Support Enabled
+INFO - 2017-09-19 14:36:56 --> Utf8 Class Initialized
+INFO - 2017-09-19 14:36:56 --> URI Class Initialized
+DEBUG - 2017-09-19 14:36:56 --> No URI present. Default controller set.
+INFO - 2017-09-19 14:36:56 --> Router Class Initialized
+INFO - 2017-09-19 14:36:56 --> Output Class Initialized
+INFO - 2017-09-19 14:36:56 --> Security Class Initialized
+INFO - 2017-09-19 14:36:56 --> Input Class Initialized
+INFO - 2017-09-19 14:36:56 --> Language Class Initialized
+INFO - 2017-09-19 14:36:56 --> Loader Class Initialized
+INFO - 2017-09-19 14:36:56 --> Helper loaded: url_helper
+INFO - 2017-09-19 14:36:56 --> Helper loaded: form_helper
+INFO - 2017-09-19 14:36:56 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 14:36:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 14:36:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 14:36:56 --> Controller Class Initialized
+INFO - 2017-09-19 14:36:56 --> Pages.phpが呼ばれました
+INFO - 2017-09-19 14:36:56 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/header.php
+INFO - 2017-09-19 14:36:56 --> File loaded: /home/masa/php_codeIgniter/application/views/pages/home.php
+INFO - 2017-09-19 14:36:56 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
+INFO - 2017-09-19 14:36:56 --> Final output sent to browser
+INFO - 2017-09-19 14:36:56 --> Total execution time: 0.0195
+INFO - 2017-09-19 16:47:21 --> Config Class Initialized
+INFO - 2017-09-19 16:47:21 --> Hooks Class Initialized
+INFO - 2017-09-19 16:47:21 --> UTF-8 Support Enabled
+INFO - 2017-09-19 16:47:21 --> Utf8 Class Initialized
+INFO - 2017-09-19 16:47:21 --> URI Class Initialized
+DEBUG - 2017-09-19 16:47:21 --> No URI present. Default controller set.
+INFO - 2017-09-19 16:47:21 --> Router Class Initialized
+INFO - 2017-09-19 16:47:21 --> Output Class Initialized
+INFO - 2017-09-19 16:47:21 --> Security Class Initialized
+INFO - 2017-09-19 16:47:21 --> Input Class Initialized
+INFO - 2017-09-19 16:47:21 --> Language Class Initialized
+INFO - 2017-09-19 16:47:21 --> Loader Class Initialized
+INFO - 2017-09-19 16:47:21 --> Helper loaded: url_helper
+INFO - 2017-09-19 16:47:21 --> Helper loaded: form_helper
+INFO - 2017-09-19 16:47:21 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 16:47:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 16:47:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 16:47:21 --> Controller Class Initialized
+INFO - 2017-09-19 16:47:21 --> Pages.phpが呼ばれました
+INFO - 2017-09-19 16:47:21 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/header.php
+INFO - 2017-09-19 16:47:21 --> File loaded: /home/masa/php_codeIgniter/application/views/pages/home.php
+INFO - 2017-09-19 16:47:21 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
+INFO - 2017-09-19 16:47:21 --> Final output sent to browser
+INFO - 2017-09-19 16:47:21 --> Total execution time: 0.0217
+INFO - 2017-09-19 17:56:31 --> Config Class Initialized
+INFO - 2017-09-19 17:56:31 --> Hooks Class Initialized
+INFO - 2017-09-19 17:56:31 --> UTF-8 Support Enabled
+INFO - 2017-09-19 17:56:31 --> Utf8 Class Initialized
+INFO - 2017-09-19 17:56:31 --> URI Class Initialized
+INFO - 2017-09-19 17:56:31 --> Router Class Initialized
+INFO - 2017-09-19 17:56:31 --> Output Class Initialized
+INFO - 2017-09-19 17:56:31 --> Security Class Initialized
+INFO - 2017-09-19 17:56:31 --> Input Class Initialized
+INFO - 2017-09-19 17:56:31 --> Language Class Initialized
+ERROR - 2017-09-19 17:56:31 --> 404 Page Not Found: Manager/html
+INFO - 2017-09-19 18:15:03 --> Config Class Initialized
+INFO - 2017-09-19 18:15:03 --> Hooks Class Initialized
+INFO - 2017-09-19 18:15:03 --> UTF-8 Support Enabled
+INFO - 2017-09-19 18:15:03 --> Utf8 Class Initialized
+INFO - 2017-09-19 18:15:03 --> URI Class Initialized
+DEBUG - 2017-09-19 18:15:03 --> No URI present. Default controller set.
+INFO - 2017-09-19 18:15:03 --> Router Class Initialized
+INFO - 2017-09-19 18:15:03 --> Output Class Initialized
+INFO - 2017-09-19 18:15:03 --> Security Class Initialized
+INFO - 2017-09-19 18:15:03 --> Input Class Initialized
+INFO - 2017-09-19 18:15:03 --> Language Class Initialized
+INFO - 2017-09-19 18:15:03 --> Loader Class Initialized
+INFO - 2017-09-19 18:15:03 --> Helper loaded: url_helper
+INFO - 2017-09-19 18:15:03 --> Helper loaded: form_helper
+INFO - 2017-09-19 18:15:03 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 18:15:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 18:15:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 18:15:03 --> Controller Class Initialized
+INFO - 2017-09-19 18:15:03 --> Pages.phpが呼ばれました
+INFO - 2017-09-19 18:15:03 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/header.php
+INFO - 2017-09-19 18:15:03 --> File loaded: /home/masa/php_codeIgniter/application/views/pages/home.php
+INFO - 2017-09-19 18:15:03 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
+INFO - 2017-09-19 18:15:03 --> Final output sent to browser
+INFO - 2017-09-19 18:15:03 --> Total execution time: 0.0220
+INFO - 2017-09-19 20:36:34 --> Config Class Initialized
+INFO - 2017-09-19 20:36:34 --> Hooks Class Initialized
+INFO - 2017-09-19 20:36:34 --> UTF-8 Support Enabled
+INFO - 2017-09-19 20:36:34 --> Utf8 Class Initialized
+INFO - 2017-09-19 20:36:34 --> URI Class Initialized
+DEBUG - 2017-09-19 20:36:34 --> No URI present. Default controller set.
+INFO - 2017-09-19 20:36:34 --> Router Class Initialized
+INFO - 2017-09-19 20:36:34 --> Output Class Initialized
+INFO - 2017-09-19 20:36:34 --> Security Class Initialized
+INFO - 2017-09-19 20:36:34 --> Input Class Initialized
+INFO - 2017-09-19 20:36:34 --> Language Class Initialized
+INFO - 2017-09-19 20:36:34 --> Loader Class Initialized
+INFO - 2017-09-19 20:36:34 --> Helper loaded: url_helper
+INFO - 2017-09-19 20:36:34 --> Helper loaded: form_helper
+INFO - 2017-09-19 20:36:34 --> Database Driver Class Initialized
+DEBUG - 2017-09-19 20:36:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-19 20:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-19 20:36:34 --> Controller Class Initialized
+INFO - 2017-09-19 20:36:34 --> Pages.phpが呼ばれました
+INFO - 2017-09-19 20:36:34 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/header.php
+INFO - 2017-09-19 20:36:34 --> File loaded: /home/masa/php_codeIgniter/application/views/pages/home.php
+INFO - 2017-09-19 20:36:34 --> File loaded: /home/masa/php_codeIgniter/application/views/templates/footer.php
+INFO - 2017-09-19 20:36:34 --> Final output sent to browser
+INFO - 2017-09-19 20:36:34 --> Total execution time: 0.0196
