@@ -18,5 +18,9 @@
     </head>
     <body>
         <?php
-            include 'menubar.html'
+            if ($device === 'sm') {
+                include 'sm_menubar.html';
+            } else {
+                include 'pc_menubar.html';
+            }
         ?>

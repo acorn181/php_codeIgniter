@@ -1,3 +1,5 @@
-        <em>&copy; 2015</em>
+        <div class="copyright">
+            <em>&copy; 2017 masahich.com</em>
+        </div>
     </body>
 </html>
