@@ -21,8 +21,8 @@ class Pages extends CI_Controller {
         $data['device'] = $device;
         $data['title'] = ucfirst($page);
 
-        $this->load->view('templates/header', $data);
-        $this->load->view('pages/'.$page, $data);
-        $this->load->view('templates/footer', $data);
+        log_message('info', 'this is Pages.php line 21');
+        $this->response->html('pages/' . $page, $data);
+
     }
 }
