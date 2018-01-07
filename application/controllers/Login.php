@@ -10,6 +10,6 @@ class Login extends CI_Controller {
      * 認証ページを表示
      */
     public function index() {
-        $this->load->view('login/inde');
+        $this->response->html('login/index');
     }
 }
